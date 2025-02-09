@@ -1,0 +1,101 @@
+code:X:Y:Z:NumeroGeneration:CodePere:CodeMere:nom:prenom:sexe:date de naissance:deces:profession:NbConjoints:liste conjoints:NbEnfants:Fichier Image
+;530;0;400;0;3;0;0;THIBAUD;Marc;M;Naissance : 27.3.1936;;Ingénieur Sup-Elec 1959;1;531;4;C:\aaThib\FThib\McBl.JPG
+;531;500;400;0;3;1398;1317;THIBAULT;Blandine;F;Naissance : 25.10.1941;;diplomée EDHEC 1963;1;530;4;C:\aaThib\FThib\McBl.JPG
+;483;250;200;0;4;530;531;THIBAUD;Violaine;F;Naissance : 7.7.1972;;kinésithérapeute;1;482;3;C:\aaThib\FThib\VioSte.JPG
+;482;1100;200;0;4;2206;2209;BORNAT;Stéphane;M;Naissance : 17.7.1971;;kinésithérapeute;1;483;3;
+;481;675;0;0;5;482;483;BORNAT;Astrid;F;Naissance : 17.7.2003;;;0;;0;
+;486;675;0;200;5;482;483;BORNAT;Domitille;F;Naissance : 12.10.1999;;;0;;0;
+;488;675;0;400;5;482;483;BORNAT;Jean;M;Naissance : 25.2.2001;;;0;;0;
+;2206;1000;400;0;3;0;0;BORNAT;Michel;M;Naissance : 1944;;médecin généraliste;1;2209;1;
+;2209;1200;400;0;3;0;0;HENRY;Françoise;F;Naissance : 26.11.1942;;;1;2206;1;
+;497;250;200;600;4;530;531;THIBAUD;Claire;F;Naissance : 28.7.1975;;avocat;1;496;1;C:\aaThib\FThib\Juillard2.JPG
+;496;1100;200;600;4;2213;2216;JUILLARD;Stéphane;M;Naissance : 2.12.1970;;ingénieur INSEA;1;497;1;
+;495;675;0;600;5;496;497;JUILLARD;Aurélien;M;Naissance : 18.6.2002;;;0;;0;
+;2213;1000;400;600;3;0;0;JUILLARD;Jean-Paul;M;Naissance : 1937;;aux Ciments Lafarge;1;2216;1;
+;2216;1200;400;600;3;0;0;RIBAC;Catherine;F;Naissance : 1945;;;1;2213;1;
+;517;250;200;800;4;530;531;THIBAUD;Marion;F;Naissance : 24.2.1970;;institurice;1;516;2;C:\aaThib\FThib\desPall2.JPG
+;516;1100;200;800;4;2200;2203;MARTIN DES PALLIERES;François;M;Naissance : 14.9.1969;;Agent commercial Sup de Co Le HAVRE;1;517;2;
+;515;675;0;800;5;516;517;MARTIN DES PALLIERES;Alban;M;Naissance : 5.4.2000;;;0;;0;
+;519;675;0;1000;5;516;517;MARTIN DES PALLIERES;Capucine;F;Naissance : 7.3.1997;;;0;;0;
+;2200;1000;400;800;3;0;0;MARTIN DES PALLIERES;Patrick;M;Naissance : 4.1944;;Sup de Co Lyon;1;2203;1;
+;2203;1200;400;800;3;0;0;GOURE;Marie-Françoise;F;Naissance : 1.4.1944;;traductrice;1;2200;1;
+;535;250;200;1200;4;530;531;THIBAUD;Matthieu;M;Naissance : 10.5.1968;;Dip ESCA d'Angers;1;523;3;C:\aaThib\FThib\MatFran2.JPG
+;523;1100;200;1200;4;2194;2196;SCHOTT;Françoise;F;Naissance : 25.4.1961;;institutrice libre;1;535;3;
+;534;675;0;1200;5;535;523;THIBAUD;Clothilde;F;Naissance : 8.8.2003;;;0;;0;
+;544;675;0;1400;5;535;523;THIBAUD;Grégoire;M;Naissance : 10.10.1998;;sans;0;;0;C:\aaThib\FThib\Greg.JPG
+;559;675;0;1600;5;535;523;THIBAUD;Ysaline;F;Naissance : 18.9.2000;;;0;;0;
+;2194;1000;400;1200;3;0;0;SCHOTT;Louis;M;Naissance : 4.1921;;employé administratif;1;2196;1;
+;2196;1200;400;1200;3;0;0;STROESSER;Odile;F;Naissance : 18.9.1923;;;1;2194;1;
+;1398;300;600;0;2;1378;1196;THIBAULT;Pierre;M;Naissance : 6.8.1912;Décès : 23.7.1982;Ing chimiste : CDF-Chimie;2;1317 1476;6;C:\aaThib\TltDel\PierreTt.JPG
+;1317;700;600;0;2;1278;1279;LESAFFRE;Thérèse;F;Naissance : 27.6.1915;Décès : 13.10.1944;sans;1;1398;3;C:\aaThib\LesVer\ThLesaf.JPG
+;568;500;400;1800;3;1398;1317;THIBAULT;Denis;M;Naissance : 3.4.1943;;inspecteur du travail;1;569;3;
+;569;0;400;1800;3;2298;0;WIMET;Charlotte;F;Naissance : 11.1.1943;;de Wimereux;1;568;3;
+;567;250;200;1800;4;568;569;THIBAULT;Damien;M;Naissance : 18.3.1972;Décès : 1.4.1989;;0;;0;
+;573;250;200;2000;4;568;569;THIBAULT;Frédéric;M;Naissance : 28.7.1969;Décès : 3.4.1985;;0;;0;
+;589;250;200;2200;4;568;569;THIBAULT;Sébastien;M;Naissance : 27.8.1968;Décès : 17.2.1982;;0;;0;
+;2298;0;600;1800;2;0;0;WIMET;Pierre-André;M;;Décès : 1994;archiviste;0;;1;
+;585;500;400;2400;3;1398;1317;THIBAULT;Pierre;M;Naissance : 3.11.1939;;prêtre;0;;0;
+;1278;600;800;0;1;0;0;LESAFFRE;Etienne;M;Naissance : 29.9.1875;Décès : 15.2.1940;industriel;1;1279;9;C:\aaThib\LesVer\EtLess.JPG
+;1279;800;800;0;1;0;0;VERHAEGHE;Marie-Madeleine;F;Naissance : 1881;Décès : 1963;;1;1278;9;
+;1277;700;600;2600;2;1278;1279;LESAFFRE;André;M;Naissance : 1908;Décès : 18.10.1997;alimentation bétail;1;1321;0;
+;1321;300;600;2600;2;0;0;LORTHIOIS;Anita;F;Naissance : 11.1921;;jumelle;1;1277;0;
+;1282;700;600;2800;2;1278;1279;LESAFFRE;Cécile;F;Naissance : 1904;Décès : 1.1994;Bernardine;0;;0;
+;1285;700;600;3000;2;1278;1279;LESAFFRE;Clémence;F;Naissance : 1925;;journaliste;1;1354;0;
+;1354;300;600;3000;2;0;0;SEVIN;Robert;M;;;Ing des Mines BNP;1;1285;0;
+;1291;700;600;3200;2;1278;1279;LESAFFRE;Etienne;M;Naissance : 1906;Décès : 1981;industriel sucrerie et acide citrique;1;1327;7;
+;1327;300;600;3200;2;0;0;NICODEME;Georgette;F;;Décès : 1.1996;;1;1291;7;
+;1960;500;400;3200;3;1291;1327;LESAFFRE;Chantal;F;Naissance : 1936;;à BOIS d'ARCY;0;;0;
+;1962;500;400;3400;3;1291;1327;LESAFFRE;Cécile;F;Naissance : 1937;;à HEM / 59;0;;0;
+;1964;500;400;3600;3;1291;1327;LESAFFRE;Nicole;F;Naissance : 1939;;à MOUVAUX / 59;0;;0;
+;1966;500;400;3800;3;1291;1327;LESAFFRE;Jacqueline;F;Naissance : 1941;;Psy à LAMBERSART;0;;0;
+;1968;500;400;4000;3;1291;1327;LESAFFRE;Martine;F;Naissance : 1942;;à ROULLOURS / 14;0;;0;
+;1970;500;400;4200;3;1291;1327;LESAFFRE;Dominique;M;Naissance : 1943;;Sté NICODEME, matériaux;0;;0;
+;1972;500;400;4400;3;1291;1327;LESAFFRE;Francis;M;Naissance : 1945;;Dr Ste Lesaffre à NANGIS;0;;0;
+;1294;700;600;4600;2;1278;1279;LESAFFRE;Jean;M;Naissance : 1910;Décès : 7.1991;Directeur sucrerie;1;1324;0;
+;1324;300;600;4600;2;0;0;MARTIN;Gaby;F;Naissance : 1918;;;1;1294;0;
+;1308;700;600;4800;2;1278;1279;LESAFFRE;Louis;M;Naissance : 1913;Décès : 1979;commerce sucre;1;1188;0;
+;1188;300;600;4800;2;0;0;DELESALLE;Denyse;F;Naissance : 1918;;;1;1308;0;
+;1311;700;600;5000;2;1278;1279;LESAFFRE;Marie-Madeleine;F;Naissance : 1902;Décès : 1980;;1;1426;7;
+;1426;300;600;5000;2;1740;1732;VANDAME;Louis III;M;Naissance : 1895;Décès : 1974;agriculteur;1;1311;7;
+;1756;500;400;5000;3;1426;1311;VANDAME;Odile;F;Naissance : 1926;;;0;;0;
+;1758;500;400;5200;3;1426;1311;VANDAME;Colette;F;Naissance : 1928;;;0;;0;
+;1950;500;400;5400;3;1426;1311;VANDAME;José;M;Naissance : 1925;;Ing. agr. à TULLE;0;;0;
+;1951;500;400;5600;3;1426;1311;VANDAME;Christian;M;Naissance : 1931;;agr. à VILLIERS le BACLE / 91;0;;0;
+;1954;500;400;5800;3;1426;1311;VANDAME;Daniel;M;Naissance : 1935;;paysagiste;0;;0;
+;1956;500;400;6000;3;1426;1311;VANDAME;Patrice;M;Naissance : 1941;;au Portugal puis à Toulouse;0;;0;
+;1958;500;400;6200;3;1426;1311;VANDAME;Benoît;M;Naissance : 1943;;à ROYAT / 63;0;;0;
+;1740;200;800;5000;1;0;0;VANDAME;Louis II;M;;;;2;1732 1736;1;
+;1732;400;800;5000;1;0;0;DELLOYE;Pauline;F;Naissance : 1874;;;1;1740;1;
+;1736;400;800;6400;1;0;0;DELLOYE;Madeleine;F;Naissance : 1875;;;1;1740;0;
+;1315;700;600;6600;2;1278;1279;LESAFFRE;Monique;F;Naissance : 1917;;;1;1207;0;
+;1207;300;600;6600;2;0;0;FLORIN;Georges;M;Naissance : 1914;;laveries à PARIS;1;1315;0;
+;1476;700;600;6800;2;1454;1117;WAMBERGUE;Jacqueline;F;Naissance : 31.8.1917;Décès : 8.12.2001;;1;1398;3;C:\aaThib\WamBon\JacqW.JPG
+;507;500;400;6800;3;1398;1476;THIBAULT;Marie;F;Naissance : 5.8.1949;;sans;1;506;1;
+;506;0;400;6800;3;2297;0;LE HUEDE;Jean-Yves;M;Naissance : 18.8.1947;;directeur de communication;1;507;1;
+;505;250;200;6800;4;506;507;LE HUEDE;Anne;F;Naissance : 13.8.1974;;hotesse;0;;0;
+;2297;0;600;6800;2;0;0;LE HUEDE;André;M;;;ing. St Nazaire;0;;1;
+;565;500;400;7000;3;1398;1476;THIBAULT;Jean-Baptiste;M;Naissance : 9.8.1950;;directeur d'entreprise;1;492;4;
+;492;0;400;7000;3;2296;0;CAYET;Bénédicte;F;Naissance : 15.3.1951;;sans;1;565;4;
+;564;250;200;7000;4;565;492;THIBAULT;Clément;M;Naissance : 2.11.1980;;;0;;0;
+;578;250;200;7200;4;565;492;THIBAULT;Julie;F;Naissance : 11.6.1977;;orthophoniste;0;;0;
+;581;250;200;7400;4;565;492;THIBAULT;Martin;M;Naissance : 25.11.1982;;;0;;0;
+;583;250;200;7600;4;565;492;THIBAULT;Nocolas;M;Naissance : 25.11.1982;;;0;;0;
+;2296;0;600;7000;2;0;0;CAYET;Michel;M;;;clerc de Notaire;0;;1;
+;593;500;400;7800;3;1398;1476;THIBAULT;Thérèse;F;Naissance : 30.12.1951;;créatrice de jardin;1;740;0;
+;740;0;400;7800;3;0;0;BONNICHON;Michel;M;Naissance : 1930;Décès : 10.1992;pépinieriste;1;593;0;
+;1454;600;800;6800;1;0;0;WAMBERGUE;Charles;M;Naissance : 1887;Décès : 1960;agriculteur brasseur;1;1117;12;
+;1117;800;800;6800;1;0;0;BONDUELLE;Marie-Madeleine;F;Naissance : 1894;Décès : 1952;;1;1454;12;C:\aaThib\WamBon\BMWamb.JPG
+;1457;700;600;8000;2;1454;1117;WAMBERGUE;Bernard;M;Naissance : 20.1.1927;Décès : 12.11.2000;agriculteur à LYNDE;0;;0;
+;1463;700;600;8200;2;1454;1117;WAMBERGUE;Charles;M;Naissance : 27.7.1921;;;0;;0;
+;1468;700;600;8400;2;1454;1117;WAMBERGUE;Colette;F;Naissance : 3.11.1925;;;0;;0;
+;1470;700;600;8600;2;1454;1117;WAMBERGUE;Elisabeth;F;Naissance : 15.3.1928;;;0;;0;
+;1472;700;600;8800;2;1454;1117;WAMBERGUE;Françoise;F;Naissance : 8.10.1919;;;0;;0;
+;1480;700;600;9000;2;1454;1117;WAMBERGUE;Jean;M;Naissance : 27.9.1918;Décès : 27.3.1999;agriculteur;0;;0;
+;1483;700;600;9200;2;1454;1117;WAMBERGUE;Louis-Michel;M;Naissance : 10.4.1934;;tech.laiterie puis agent banquaire;0;;0;
+;1485;700;600;9400;2;1454;1117;WAMBERGUE;Luc;M;Naissance : 22.10.1930;;agriculteur;0;;0;
+;1487;700;600;9600;2;1454;1117;WAMBERGUE;Marie-Madelene;F;Naissance : 9.12.1915;;Carmélite;0;;0;
+;1489;700;600;9800;2;1454;1117;WAMBERGUE;Marie-Marguerite;F;Naissance : 26.6.1923;;;0;;0;
+;1491;700;600;10000;2;1454;1117;WAMBERGUE;Philippe;M;Naissance : 6.4.1932;;agriculteur;0;;0;
+;1378;200;800;0;1;0;0;THIBAULT;Paul;M;Naissance : 30.9.1871;Décès : 25.11.1962;ing.X;1;1196;2;C:\aaThib\TltDel\PaulTt.JPG
+;1196;400;800;0;1;0;0;DELLOYE;Louise;F;Naissance : 1878;Décès : 1964;;1;1378;2;C:\aaThib\TltDel\TtDell.JPG
+;1081;300;600;10200;2;1378;1196;THIBAULT;Thérèse;F;Naissance : 1914;Décès : 1985;;0;;0;

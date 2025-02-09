@@ -1,0 +1,28 @@
+code:X:Y:Z:NumeroGeneration:CodePere:CodeMere:nom:prenom:sexe:date de naissance:deces:profession:NbConjoints:liste conjoints:NbEnfants:Fichier Image
+;544;300;0;0;3;535;523;THIBAUD;Grégoire;M;Naissance : 10.10.1998;;sans;0;;0;C:\aaThib\FThib\Greg.JPG
+;535;100;200;0;2;530;531;THIBAUD;Matthieu;M;Naissance : 10.5.1968;;Dip ESCA d'Angers;1;523;3;C:\aaThib\FThib\MatFran2.JPG
+;523;500;200;0;2;2194;2196;SCHOTT;Françoise;F;Naissance : 25.4.1961;;institutrice libre;1;535;3;
+;534;300;0;200;3;535;523;THIBAUD;Clothilde;F;Naissance : 8.8.2003;;;0;;0;
+;559;300;0;400;3;535;523;THIBAUD;Ysaline;F;Naissance : 18.9.2000;;;0;;0;
+;2194;400;400;0;1;0;0;SCHOTT;Louis;M;Naissance : 4.1921;;employé administratif;1;2196;1;
+;2196;600;400;0;1;0;0;STROESSER;Odile;F;Naissance : 18.9.1923;;;1;2194;1;
+;530;0;400;0;1;0;0;THIBAUD;Marc;M;Naissance : 27.3.1936;;Ingénieur Sup-Elec 1959;1;531;4;C:\aaThib\FThib\McBl.JPG
+;531;200;400;0;1;0;0;THIBAULT;Blandine;F;Naissance : 25.10.1941;;diplomée EDHEC 1963;1;530;4;C:\aaThib\FThib\McBl.JPG
+;483;100;200;600;2;530;531;THIBAUD;Violaine;F;Naissance : 7.7.1972;;kinésithérapeute;1;482;3;C:\aaThib\FThib\VioSte.JPG
+;482;500;200;600;2;2206;2209;BORNAT;Stéphane;M;Naissance : 17.7.1971;;kinésithérapeute;1;483;3;
+;481;300;0;600;3;482;483;BORNAT;Astrid;F;Naissance : 17.7.2003;;;0;;0;
+;486;300;0;800;3;482;483;BORNAT;Domitille;F;Naissance : 12.10.1999;;;0;;0;
+;488;300;0;1000;3;482;483;BORNAT;Jean;M;Naissance : 25.2.2001;;;0;;0;
+;2206;400;400;600;1;0;0;BORNAT;Michel;M;Naissance : 1944;;médecin généraliste;1;2209;1;
+;2209;600;400;600;1;0;0;HENRY;Françoise;F;Naissance : 26.11.1942;;;1;2206;1;
+;497;100;200;1200;2;530;531;THIBAUD;Claire;F;Naissance : 28.7.1975;;avocat;1;496;1;C:\aaThib\FThib\Juillard2.JPG
+;496;500;200;1200;2;2213;2216;JUILLARD;Stéphane;M;Naissance : 2.12.1970;;ingénieur INSEA;1;497;1;
+;495;300;0;1200;3;496;497;JUILLARD;Aurélien;M;Naissance : 18.6.2002;;;0;;0;
+;2213;400;400;1200;1;0;0;JUILLARD;Jean-Paul;M;Naissance : 1937;;aux Ciments Lafarge;1;2216;1;
+;2216;600;400;1200;1;0;0;RIBAC;Catherine;F;Naissance : 1945;;;1;2213;1;
+;517;100;200;1400;2;530;531;THIBAUD;Marion;F;Naissance : 24.2.1970;;institurice;1;516;2;C:\aaThib\FThib\desPall2.JPG
+;516;500;200;1400;2;2200;2203;MARTIN DES PALLIERES;François;M;Naissance : 14.9.1969;;Agent commercial Sup de Co Le HAVRE;1;517;2;
+;515;300;0;1400;3;516;517;MARTIN DES PALLIERES;Alban;M;Naissance : 5.4.2000;;;0;;0;
+;519;300;0;1600;3;516;517;MARTIN DES PALLIERES;Capucine;F;Naissance : 7.3.1997;;;0;;0;
+;2200;400;400;1400;1;0;0;MARTIN DES PALLIERES;Patrick;M;Naissance : 4.1944;;Sup de Co Lyon;1;2203;1;
+;2203;600;400;1400;1;0;0;GOURE;Marie-Françoise;F;Naissance : 1.4.1944;;traductrice;1;2200;1;
